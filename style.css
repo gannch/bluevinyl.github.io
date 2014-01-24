@@ -15,7 +15,6 @@ body {
 	opacity: .5;
 	margin: 0 auto;
 	top: 0; left: 0;
-	text-align: none;
 	z-index: 10000;
 	position: fixed;
 	
@@ -29,7 +28,6 @@ body {
 	padding-top: 10px;
 	padding-bottom: 0px;
 	background-position: center;
-	background-color:none;
 	background-repeat: no-repeat;
 
 
@@ -80,14 +78,14 @@ a:visited {
 
 a:hover {
 	text-decoration:none;
-	color: #555555:
+	color: #555;
 	
 	
 }
 
 a:active {
 	text-decoration:none;
-	color: #828282:
+	color: #828282;
 	
 	
 }
@@ -113,7 +111,6 @@ a:active {
 	-webkit-transform: translateX(-50%);
 	-moz-transform: translateX(-50%);
 	transform: translateX(-50%);
-	pointer-events: none;
 }
 
 .cl-effect-13 a:hover::before,
@@ -293,7 +290,6 @@ a:active {
 	font-family: 'Merriweather', serif;
 	font-style: italic;
 	font-size:36px;
-	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -302,12 +298,11 @@ a:active {
 	padding: .75em 1.5em .75em 1.5em;
 	margin: 0 .5em .5em 0;
 	font-family: 'Lato', sans-serif;
-	font-style: none;
 	font-size:24px;
 	-webkit-transition: background 0.3s ease-in-out;
-    -moz-transition: background 0.3s ease-in-out;
-    -ms-transition: background 0.3s ease-in-out;
-    -o-transition: background 0.3s ease-in-out;
+    	-moz-transition: background 0.3s ease-in-out;
+    	-ms-transition: background 0.3s ease-in-out;
+    	-o-transition: background 0.3s ease-in-out;
 	color: #fff;
 	background-color: rgba(255,255,255,0.5);
 	border: 1px solid rgba(255,255,255,0.8);
