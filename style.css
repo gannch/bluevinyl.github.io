@@ -141,14 +141,14 @@ a:active {
 	}
 
 
-.scroll	{
+#scroll	{
 	padding-top: 100px;
 	margin: 0 auto;
 }
 
 
 /* Images */
-.section1 {  
+#section1 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_1.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -162,7 +162,7 @@ a:active {
 		
 }
 
-.section2 {  
+#section2 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_2.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -176,7 +176,7 @@ a:active {
 		
 }
 
-.section3 {  
+#section3 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_3.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -190,7 +190,7 @@ a:active {
 		
 }
 
-.section4 {  
+#section4 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_4.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -204,7 +204,7 @@ a:active {
 		
 }
 
-.section5 {  
+#section5 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_5.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -218,7 +218,7 @@ a:active {
 		
 }
 
-.section6 {  
+#section6 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_6.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -232,7 +232,7 @@ a:active {
 	
 }
 
-.section7 {  
+#section7 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_7.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -246,7 +246,7 @@ a:active {
 	
 }
 
-.section8 {  
+#section8 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_8.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -260,7 +260,7 @@ a:active {
 	
 }
 
-.section9 {  
+#section9 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_9.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -274,7 +274,7 @@ a:active {
 	
 }
 
-.section10 {  
+#section10 {  
 	background: url("https://raw2.github.com/bluevinyl/bluevinyl.github.io/master/images/Image_11.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
