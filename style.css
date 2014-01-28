@@ -297,6 +297,7 @@ a:active {
 	font-family: 'Merriweather', serif;
 	font-style: italic;
 	font-size:36px;
+	color: #fff;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 }
